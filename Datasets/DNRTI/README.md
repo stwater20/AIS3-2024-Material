@@ -1,0 +1,1 @@
+This dataset is from [DNRTI](https://github.com/SCreaMxp/DNRTI-A-Large-scale-Dataset-for-Named-Entity-Recognition-in-Threat-Intelligence).
