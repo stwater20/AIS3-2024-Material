@@ -1,19 +1,19 @@
 # AIS3-2024-Material
 
-This repo provides material of 2024 AIS3 student to practice Cyber Security and some AI techniques.
+Welcome to the AIS3-2024 material repository! Here, you'll find resources to help you practice cybersecurity and explore various AI techniques.
 
-## Course
+## Course: Intelligence Utilization and Malware Analysis
+### Main Session (All Students):
+- 07/29 (Monday) 13:30-15:30 (2 hours)
+### Elective Sessions (Optional for Some Students):
+- 07/30 (Tuesday) 13:00-15:00 (2 hours)
+- 08/01 (Thursday) 08:30-10:30 (2 hours)
 
-情資運用及惡意程式分析
-
-* 主修(全體學員) 7/29(一)13:30-15:30(2H)
-* 選修(部分選修學員)7/30(二)13:00-15:00 (2H)
-* 選修(部分選修學員)  8/1(四)08:30-10:30 (2H)
 
 ## Notice
 
-If you like this repo, please click star.
+If you find this repository helpful, please consider giving it a star!
 
 ## LICENSE
 
-[MIT License](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
